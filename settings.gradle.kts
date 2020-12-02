@@ -1,0 +1,8 @@
+include(":app")
+include(":buildSrc")
+include(":core")
+include(":firstLab")
+include(":secondLab")
+include(":thirdLab")
+include(":fourthLab")
+include(":fifthLab")
